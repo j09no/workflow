@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Physics",
+    "color": "blue"
+  },
+  {
+    "id": 2,
+    "name": "Chemistry",
+    "color": "green"
+  },
+  {
+    "id": 3,
+    "name": "Biology",
+    "color": "purple"
+  }
+]

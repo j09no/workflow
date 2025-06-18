@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Mechanics",
+    "description": "Laws of motion and forces",
+    "subjectId": 1,
+    "totalQuestions": 0,
+    "completedQuestions": 0,
+    "createdAt": "2025-06-11T18:51:29.782Z"
+  },
+  {
+    "id": 2,
+    "title": "Thermodynamics",
+    "description": "Heat and energy transfer",
+    "subjectId": 1,
+    "totalQuestions": 0,
+    "completedQuestions": 0,
+    "createdAt": "2025-06-11T18:51:29.782Z"
+  },
+  {
+    "id": 3,
+    "title": "Atomic Structure",
+    "description": "Structure of atoms and molecules",
+    "subjectId": 2,
+    "totalQuestions": 0,
+    "completedQuestions": 0,
+    "createdAt": "2025-06-11T18:51:29.782Z"
+  },
+  {
+    "id": 4,
+    "title": "Chemical Bonding",
+    "description": "Types of chemical bonds",
+    "subjectId": 2,
+    "totalQuestions": 0,
+    "completedQuestions": 0,
+    "createdAt": "2025-06-11T18:51:29.782Z"
+  },
+  {
+    "id": 5,
+    "title": "Cell Biology",
+    "description": "Structure and function of cells",
+    "subjectId": 3,
+    "totalQuestions": 0,
+    "completedQuestions": 0,
+    "createdAt": "2025-06-11T18:51:29.782Z"
+  },
+  {
+    "id": 6,
+    "title": "Genetics",
+    "description": "Heredity and genetic variation",
+    "subjectId": 3,
+    "totalQuestions": 0,
+    "completedQuestions": 0,
+    "createdAt": "2025-06-11T18:51:29.782Z"
+  },
+  {
+    "title": "qq",
+    "description": null,
+    "subjectId": 1,
+    "id": 7,
+    "createdAt": "2025-06-11T18:52:03.725Z",
+    "totalQuestions": 98,
+    "completedQuestions": 0
+  },
+  {
+    "title": "hy",
+    "description": null,
+    "subjectId": 1,
+    "id": 8,
+    "createdAt": "2025-06-13T09:05:36.582Z",
+    "totalQuestions": 0,
+    "completedQuestions": 0
+  },
+  {
+    "title": "hy",
+    "description": null,
+    "subjectId": 1,
+    "id": 9,
+    "createdAt": "2025-06-14T10:19:35.256Z",
+    "totalQuestions": 0,
+    "completedQuestions": 0
+  }
+]
